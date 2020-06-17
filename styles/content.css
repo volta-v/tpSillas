@@ -1,0 +1,36 @@
+.contenedor {
+	border: 2px solid black;
+	height: 600px;
+	width: 900px;
+	
+}
+
+.mesa {
+  position: relative;
+	top: 150px;
+	left: 160px;
+}
+
+.botones {
+	position: absolute;
+	top: 25px;
+	left: 800px;
+}
+
+.boton {
+	color: white;
+	border: none;
+	font-size: 25px;
+	padding: 10px;
+	border-radius: 30px;
+	margin: 2px;
+}
+
+.botonMenos {
+	background: red;
+	
+}
+
+.botonMas {
+	background: green;
+}
